@@ -57,6 +57,9 @@
      .navbar{
            backdrop-filter: saturate(180%) blur(20px);
     }
+    .section-02{
+        margin-top: 50px;
+    }
 }
 @media only screen and (max-width:576px){
     .home-intro h1{
