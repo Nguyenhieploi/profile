@@ -906,24 +906,5 @@ canvas {
     top: 0;
   }
   
-  .a-title {
-    position: absolute;
-    color: transparent;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-image: conic-gradient(#ed0101, blue);
-    pointer-events: none;
-    mix-blend-mode: difference;
-    filter: drop-shadow(2px 4px 6px black);
-  }
-  .a-second-title {
-    position: absolute;
-    margin-top: 25vh;
-    pointer-events: none;
-    -webkit-text-stroke: 1.3px white;
-    letter-spacing: 1.125px;
-    font-size: 40px;
-    font-weight: 900;
-    mix-blend-mode: color-dodge;
-  }
+
   
