@@ -437,7 +437,12 @@ hr {
     font-weight: 700;
     text-align: center;
 }
-
+.heading-04 h3 {
+    font-size: 4rem;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
 /* .section-02 .heading-02 h3:after {
     content: "";
     position: absolute;
@@ -661,7 +666,30 @@ hr {
 .feature-box:hover {
     transform: translateY(-10px);
 }
-
+.main-product{
+    margin-top: 50px;
+}
+.img-product img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.description-product h3{
+    color: #ffb400;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.title-product{
+    font-weight: 500;
+    color: #ffff;
+}
+.description-product p{
+    color: #ffff;
+}
+.img-product{
+    margin-top: 60px;
+}
 .feature-box .icon {
     border: 1px solid rgba(255, 255, 255, 0.1);
     background: rgba(0, 0, 0, 0.2);
@@ -769,7 +797,12 @@ hr {
 .section-03 .contact-text {
     padding-top: 100px;
 }
-
+.section-04{
+    margin-top: 150px;
+}
+.heading-04{
+    margin-top: 60px;
+}
 .section-03 {
     margin-top: 200px;
 }
